@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 ## 공부 일지들 
 1. 옵시디언
-    - 배포된 자료 사이트 : ![Y.H Knowlege Garden](https://computer-travel.netlify.app/)
-    - 자료들(미배포 자료 포함) : https://github.com/ARlegro/obsidian-backup
+    - ![배포된 자료 사이트](https://computer-travel.netlify.app/)
+    - ![미배포 자료 포함](https://github.com/ARlegro/obsidian-backup)
 
 2. 노션
     - ![개발 공부](https://www.notion.so/717c531d38de4a248608354bcf95a9bd)
