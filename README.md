@@ -17,6 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 
+
+## 원하는 것 
+
+## Community
+- 코드잇 SB 1기(2024.12.28 ~ 25.07.04)
+- 크래프톤 정글 10기(2025.07.07 ~ 25.12.12)
+
+## Projects
+- 
+
+
+
 ## 공부 일지들 
 1. 옵시디언
     - 배포된 자료 사이트 : ![Y.H Knowlege Garden](https://computer-travel.netlify.app/)
