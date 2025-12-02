@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 
-
-## 원하는 것 
-
-## Community
+## Education 
+- 홍익대학교(2016. 3 ~ 2024.7)
 - 코드잇 SB 1기(2024.12.28 ~ 25.07.04)
 - 크래프톤 정글 10기(2025.07.07 ~ 25.12.12)
+  - ![회고 시작](https://computer-travel.netlify.app/retrospect/0707%20~%201204%20-%20crafton%20jungle/0710%20~%200716%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98,%20cs%20%EC%8B%9C%EC%9E%91/) (Retrospect -> 0707 ~ 1204)
+  - ![Pintos 후기 글](https://computer-travel.netlify.app/pintos/pintos%20vm/pintos%20%EC%A0%84%EC%B2%B4%20%ED%9B%84%EA%B8%B0/)
+
+## 원하는 것 
 
 ## Projects
 - 
