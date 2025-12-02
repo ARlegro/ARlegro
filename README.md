@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 홍익대학교(2016. 3 ~ 2024.7)
 - 코드잇 SB 1기(2024.12.28 ~ 25.07.04)
 - 크래프톤 정글 10기(2025.07.07 ~ 25.12.12)
-  - ![회고 시작](https://computer-travel.netlify.app/retrospect/0707%20~%201204%20-%20crafton%20jungle/0710%20~%200716%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98,%20cs%20%EC%8B%9C%EC%9E%91/) (Retrospect -> 0707 ~ 1204)
-  - ![Pintos 후기 글](https://computer-travel.netlify.app/pintos/pintos%20vm/pintos%20%EC%A0%84%EC%B2%B4%20%ED%9B%84%EA%B8%B0/)
+  - [회고 시작](https://computer-travel.netlify.app/retrospect/0707%20~%201204%20-%20crafton%20jungle/0710%20~%200716%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98,%20cs%20%EC%8B%9C%EC%9E%91/) (Retrospect -> 0707 ~ 1204)
+  - [Pintos 후기 글](https://computer-travel.netlify.app/pintos/pintos%20vm/pintos%20%EC%A0%84%EC%B2%B4%20%ED%9B%84%EA%B8%B0/)
 
 ## 원하는 것 
 
@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ## 공부 일지들 
 1. 옵시디언
-    - ![배포된 자료 사이트](https://computer-travel.netlify.app/)
-    - ![미배포 자료 포함](https://github.com/ARlegro/obsidian-backup)
+    - [배포된 자료 사이트](https://computer-travel.netlify.app/)
+    - [미배포 자료 포함](https://github.com/ARlegro/obsidian-backup)
 
 2. 노션
-    - ![개발 공부](https://www.notion.so/717c531d38de4a248608354bcf95a9bd)
+    - [개발 공부](https://www.notion.so/717c531d38de4a248608354bcf95a9bd)
   
 3. 티스토리(중간에 옵시디언으로 이주)
     - https://inform-f-e.tistory.com/
