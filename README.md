@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ---
 
 **🤖 AI / LLM Stack**
+
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?logo=github&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=python&logoColor=white)
 
