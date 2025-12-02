@@ -100,3 +100,7 @@ Here are some ideas to get you started:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+## contact
+gmail : icb1696@gmail.com
+naver : icb1696@naver.com
