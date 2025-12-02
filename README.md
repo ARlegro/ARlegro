@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 ---
-### Infra 
+### 🏗️ Infra 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
@@ -78,19 +78,17 @@ Here are some ideas to get you started:
 ![ECS Fargate](https://img.shields.io/badge/ECS%20Fargate-FF9900?logo=amazonaws&logoColor=white) 
 ![ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?logo=amazonaws&logoColor=white) 
 
---- 
-
-### 🗄 Database Tools
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
-![Sqlectron](https://img.shields.io/badge/Sqlectron-1E90FF?logo=electron&logoColor=white)
-
 ---
 ### 🧰 Tools & Productivity
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
+![Sqlectron](https://img.shields.io/badge/Sqlectron-1E90FF?logo=electron&logoColor=white)
+
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
