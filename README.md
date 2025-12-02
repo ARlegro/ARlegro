@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ---
 
-🤖 AI / LLM Stack
+**🤖 AI / LLM Stack**
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?logo=github&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=python&logoColor=white)
 
@@ -68,6 +68,18 @@ Here are some ideas to get you started:
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+---
+### Infra 
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazonaws&logoColor=white) 
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?logo=amazonaws&logoColor=white) 
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS%20Fargate-FF9900?logo=amazonaws&logoColor=white) 
+![ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?logo=amazonaws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
 --- 
 
