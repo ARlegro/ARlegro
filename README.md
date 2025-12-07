@@ -51,11 +51,6 @@ Here are some ideas to get you started:
 ![JPA](https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white)
 ![Querydsl](https://img.shields.io/badge/Querydsl-0769AD?logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-
 
 ---
 
@@ -63,10 +58,7 @@ Here are some ideas to get you started:
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?logo=github&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=python&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?logo=amazonaws&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 ---
 ### 🏗️ Infra 
