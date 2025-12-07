@@ -49,11 +49,13 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white)
+![Querydsl](https://img.shields.io/badge/Querydsl-0769AD?logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+
 
 ---
 
